@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      "number-pairs@^1.0.0",
+      "/Users/jimhigson/dev/fusion_web_phase2/node_modules/svg-projections"
+    ]
+  ],
+  "_from": "number-pairs@>=1.0.0 <2.0.0",
+  "_id": "number-pairs@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/number-pairs",
+  "_nodeVersion": "5.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/number-pairs-1.0.0.tgz_1457092251974_0.08061110484413803"
+  },
+  "_npmUser": {
+    "email": "jim.higson@gmail.com",
+    "name": "jimhigson"
+  },
+  "_npmVersion": "3.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "number-pairs",
+    "raw": "number-pairs@^1.0.0",
+    "rawSpec": "^1.0.0",
+    "scope": null,
+    "spec": ">=1.0.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/svg-projections"
+  ],
+  "_resolved": "https://registry.npmjs.org/number-pairs/-/number-pairs-1.0.0.tgz",
+  "_shasum": "b80b15e3418b89fb35fb8be3e0148941de4776bc",
+  "_shrinkwrap": null,
+  "_spec": "number-pairs@^1.0.0",
+  "_where": "/Users/jimhigson/dev/fusion_web_phase2/node_modules/svg-projections",
+  "author": {
+    "name": "Jim Higson"
+  },
+  "bugs": {
+    "url": "https://github.com/jimhigson/number-pairs/issues"
+  },
+  "dependencies": {},
+  "description": "Javascript utility for dealing with ranges of numbers and/or dates expressed as length-2 arrays.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "b80b15e3418b89fb35fb8be3e0148941de4776bc",
+    "tarball": "https://registry.npmjs.org/number-pairs/-/number-pairs-1.0.0.tgz"
+  },
+  "gitHead": "01075c535f71afa314e19002f97e757bff864e7d",
+  "homepage": "https://github.com/jimhigson/number-pairs#readme",
+  "keywords": [
+    "number",
+    "pairs",
+    "tuple",
+    "dates"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "number-pairs.js",
+  "maintainers": [
+    {
+      "email": "jim.higson@gmail.com",
+      "name": "jimhigson"
+    }
+  ],
+  "name": "number-pairs",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimhigson/number-pairs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
